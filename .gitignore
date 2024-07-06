@@ -1,0 +1,14 @@
+# Maven
+log/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+
+# Java Class Files #
+*.class
